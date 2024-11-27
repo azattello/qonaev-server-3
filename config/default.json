@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:YZy62Phfuu8vZuTA@logistqonaev.nedxx.mongodb.net/?retryWrites=true&w=majority&appName=logistqonaev",
+    "secretKey" : "mern-secret-key"
+}
